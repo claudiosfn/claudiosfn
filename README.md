@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/claudiosfn">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=claudiosfn&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiosfn&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiosfn&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 <div style="display: inline_block"><br>
