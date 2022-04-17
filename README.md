@@ -1,6 +1,6 @@
 ### Olá. 👋
 
-- 🔭 Atualmente aspiranta à desenvolvedor Backend / Full-Stack.
+- 🔭 Atualmente aspirante à desenvolvedor Backend / Full-Stack.
 - 🌱 Principais linguagens: JavaScript, HTML, CSS.
 
 
