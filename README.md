@@ -10,11 +10,11 @@
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiosfn&layout=compact&langs_count=7&theme=gruvbox">
 </div>
   
-  
-<div style="display: inline_block"><br>
-<img aling="center" height="20" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img aling="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img aling="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <!--Icons-->
+<div style="display: flex; justify-content: start;">
+<img height="40" width="40"  src="icons8-javascript.gif" />
+<img height="40" width="40" src="icons8-css3-48.png" />
+<img height="40" width="40" src="icons8-html-5-48.png" />
 </div>
   
 <div>
