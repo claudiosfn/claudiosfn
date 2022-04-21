@@ -14,9 +14,9 @@
   
   
 <div><a href="https://github.com/claudiosfn/"></a> <!--div das imagens-->
-  <img height="36" width="37"  src="icons8-logotipo-javascript-50.png"/>
-  <img height="40" width="40" src="icons8-css3-48.png"/>
-  <img height="40" width="40" src="icons8-html-5-48.png"/>
+  <img height="36" width="37"  src="https://github.com/claudiosfn/claudiosfn/blob/main/icons/icons8-javascript.gif"/>
+  <img height="40" width="40" src="https://github.com/claudiosfn/claudiosfn/blob/main/icons/icons8-css3-48.png"/>
+  <img height="40" width="40" src="https://github.com/claudiosfn/claudiosfn/blob/main/icons/icons8-html-5-48.png"/>
 </div>
   
 <div>
