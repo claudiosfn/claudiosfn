@@ -7,6 +7,7 @@
 </div>
 
 <div align="center">
+  <br>
   <a href="https://github.com/claudiosfn/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=claudiosfn&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <!--
