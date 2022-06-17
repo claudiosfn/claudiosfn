@@ -1,6 +1,6 @@
 <div>
   <p><strong>Olá, seja bem vinda(o)! 👋</strong></p>
-  <p>Sou um estudante e freelancer na área de programação, estou no 3º semestre da faculdade, fazendo cursos por plataformas como Udemy. </p>
+  <p>Atualmente sou estou cursando Análise e desenvolvimento de software. </p>
 <div>
   <a href="mailto:contatocraudiofelix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/claudio-felix/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
